@@ -1,3 +1,4 @@
+<h1 align="center">📫 How to reach me:</h1>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/sertacdncl/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -6,6 +7,7 @@
 
 
 ### Hi there 👋 I am Sertaç
+
 
 <!--
 **sertacdncl/sertacdncl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

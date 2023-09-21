@@ -1,5 +1,4 @@
-### Hi there 👋 I am Sertaç
-
+<h1 align="center">👋 Hi there! I am Sertaç</h1>
 <h1 align="center">📫 How to reach me</h1>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/sertacdncl/" target="_blank">
